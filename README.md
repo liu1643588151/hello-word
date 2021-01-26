@@ -1,2 +1,2 @@
 # hello-word
-cai ji
+cai ji菜鸡
